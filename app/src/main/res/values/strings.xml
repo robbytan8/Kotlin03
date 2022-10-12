@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Kotlin 03</string>
+  <string name="hint_email">Your Email Here (john.doe@somemail.com)</string>
+  <string name="hint_password">Your secret key</string>
+  <string name="text_action_login">Login</string>
+  <string name="message_login_success">Login Success</string>
+  <string name="message_error_login">Invalid email or password</string>
+</resources>
